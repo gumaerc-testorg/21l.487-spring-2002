@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -9,12 +10,12 @@ uid: a50559e6-972d-9e2a-af08-6f995e08030c
 Session 4
 ---------
 
-I'll lecture for some of this week's class. If I lecture I'll probably repeat what I've been thinking and publishing on the subject. To give you a sense of my current thinking on these issues, I append a recent essay (by me) on Ezra Pound and how modernism uses translation. You might as well read it as to have me repeat it to you-we can use the time more efficiently in this way and can open more comfortably into conversation. See the [study materials]({{< baseurl >}}/pages/study-materials) section for the referenced essay.
+I'll lecture for some of this week's class. If I lecture I'll probably repeat what I've been thinking and publishing on the subject. To give you a sense of my current thinking on these issues, I append a recent essay (by me) on Ezra Pound and how modernism uses translation. You might as well read it as to have me repeat it to you-we can use the time more efficiently in this way and can open more comfortably into conversation. See the {{% resource_link b83ac87e-7b02-036b-e9d5-1615f6c96671 "study materials" %}} section for the referenced essay.
 
 Session 7
 ---------
 
-I'll lecture for some of this week's class. If I lecture I'll probably repeat what I've been thinking and publishing on the subject. To give you a sense of my current thinking on these issues, I append a recent essay (by me) on Charlie Chaplin and how modernism poetry uses image-techniques derived from film. The point is not only that the poems allude to Chaplin, but that they often derive their own sense of literary aesthetics, paradoxically, from film aesthetics. You might as well read the argument as to have me repeat it to you. I should mention that this essay is a bit self-reflexive-it deals with the dynamic of teaching MIT students-and that it's strictly a draft. I'll be interested to hear if its account of MIT classroom dynamics reflects your own sense of those dynamics. See the [study materials]({{< baseurl >}}/pages/study-materials) section for the referenced essay.
+I'll lecture for some of this week's class. If I lecture I'll probably repeat what I've been thinking and publishing on the subject. To give you a sense of my current thinking on these issues, I append a recent essay (by me) on Charlie Chaplin and how modernism poetry uses image-techniques derived from film. The point is not only that the poems allude to Chaplin, but that they often derive their own sense of literary aesthetics, paradoxically, from film aesthetics. You might as well read the argument as to have me repeat it to you. I should mention that this essay is a bit self-reflexive-it deals with the dynamic of teaching MIT students-and that it's strictly a draft. I'll be interested to hear if its account of MIT classroom dynamics reflects your own sense of those dynamics. See the {{% resource_link b83ac87e-7b02-036b-e9d5-1615f6c96671 "study materials" %}} section for the referenced essay.
 
 {{< tableopen >}}
 {{< theadopen >}}
