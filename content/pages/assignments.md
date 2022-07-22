@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section details the work expectations for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9f631ec7-9fcf-7b4f-23f9-f1c231e3ede1
 ---
