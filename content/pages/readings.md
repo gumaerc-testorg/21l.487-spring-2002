@@ -11,13 +11,13 @@ uid: 1985ce08-ad3a-2b07-bcb1-7c472b34ce92
 ---
 ## Required Texts
 
-Woolf, Virginia. *Mrs. Dalloway.* ([Download](https://ebooks.adelaide.edu.au/w/woolf/virginia/w91md/) a version from [eBooks@Adelaide.edu.au](mailto:ebooks@adelaide.edu.au))
+Woolf, Virginia. *Mrs. Dalloway.*
 
 Ellman, Richard, ed. *Modern Poems.* 2nd ed. Edited by Richard Ellmann, Robert O'Clair, and O'Clair Ellmann, New York: W. W. Norton & Company, 1989. ISBN: 0393959074.
 
 ### Note
 
-T. S. Eliot's "The Waste Land" ([download](http://www.gutenberg.org) a version from Project Gutenberg) is arguably the most influential poem of the period. Like many other groundbreaking works it tends to teach its readers how to read it. It is not only a poem of refraction; its method is "mythic" and refractive. Its components both depend on allusion and remake the frame or implications of the allusion, restructuring the literary history on which it depends. In some senses, this 'historical' argument about historicity is both the technique of the sequence AND the 'point' of the poem itself: questions for instance of how and whether we can learn anything from history, or whether some problematic cultural attitudes (anti-Semitism) are so threaded through our culture that we need to 'redeem' that history, or to 'purify' its language. Some read "TWL" as historically specific, a choral representation of its contemporary social and sexual mores; others read "TWL" as a more general meditation on the nature of historical progress and decline. The poem teaches its own historical method, and we learn that method cumulatively. The poem is more fun to read slowly, voice by voice and section by section. If we read it aggregatively, we can judge more accurately whether these people are in fact communicating with one another, what are the relations between sections and themes, and why the poem needs a 'narrator' ('Tiresias') who has been both male and female, and who is several thousand years old. Instead of doing that work all in one or two classes, I propose we spend 10-15 minutes in each class meeting for several months, to read section-by-section closely. I list those readings as 'sequence-poem.'
+T. S. Eliot's "The Waste Land" ([download](http://www.gutenberg.org/) a version from Project Gutenberg) is arguably the most influential poem of the period. Like many other groundbreaking works it tends to teach its readers how to read it. It is not only a poem of refraction; its method is "mythic" and refractive. Its components both depend on allusion and remake the frame or implications of the allusion, restructuring the literary history on which it depends. In some senses, this 'historical' argument about historicity is both the technique of the sequence AND the 'point' of the poem itself: questions for instance of how and whether we can learn anything from history, or whether some problematic cultural attitudes (anti-Semitism) are so threaded through our culture that we need to 'redeem' that history, or to 'purify' its language. Some read "TWL" as historically specific, a choral representation of its contemporary social and sexual mores; others read "TWL" as a more general meditation on the nature of historical progress and decline. The poem teaches its own historical method, and we learn that method cumulatively. The poem is more fun to read slowly, voice by voice and section by section. If we read it aggregatively, we can judge more accurately whether these people are in fact communicating with one another, what are the relations between sections and themes, and why the poem needs a 'narrator' ('Tiresias') who has been both male and female, and who is several thousand years old. Instead of doing that work all in one or two classes, I propose we spend 10-15 minutes in each class meeting for several months, to read section-by-section closely. I list those readings as 'sequence-poem.'
 
 ## Readings by Class Session
 
@@ -40,9 +40,9 @@ Origins of Modernism I
 Symbolist Textuality, Aestheticism, Relation to Image the Flaneur and the City
 
 {{< tdclose >}}{{< tdopen >}}
-Baudelaire. "To the Reader," "Albatross," and "Correspondences." ([download](http://www.gutenberg.org/etext/6099) a version of this work from Project Gutenberg)   
-available in:   
-Baudelaire, Charles. *Cardon / textes de Charles Baudelaire et Jean Robert*. Lausanne: Héron, 2002. ISBN: 2884860010   
+Baudelaire. "To the Reader," "Albatross," and "Correspondences." ([download](http://www.gutenberg.org/etext/6099) a version of this work from Project Gutenberg)    
+available in:    
+Baudelaire, Charles. *Cardon / textes de Charles Baudelaire et Jean Robert*. Lausanne: Héron, 2002. ISBN: 2884860010    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -60,13 +60,13 @@ Darwin and Social Change
 
 {{< tdclose >}}{{< tdopen >}}
 
-Tennyson. "Ulysses." ([download](http://eir.library.utoronto.ca/rpo/display/poem2191.html) a version of this work from the University of Toronto)
+Tennyson. "Ulysses." 
 
-Dante. *Inferno XXVI*. ([download](http://www.gutenberg.org/etext/997) a version of this work from Project Gutenberg)   
-available in:   
+Dante. *Inferno XXVI*. ([download](http://www.gutenberg.org/etext/997) a version of this work from Project Gutenberg)    
+available in:    
 Alighieri, Dante. *Inferno /Dante Alighieri; a New Verse Translation by Michael Palma. 1st ed*. New York: W. W. Norton, 2002. ISBN: 0393323870
 
-Browning. "My Last Duchess." ([download](http://eir.library.utoronto.ca/rpo/display/poem288.html) a version of this work from the University of Toronto)
+Browning. "My Last Duchess." 
 
 Whitman (1 ff). Sequence-Poem. pp. 180-1. ([download](http://www.gutenberg.org/ebooks/8388) a version of this work from Project Gutenberg)
 
@@ -86,11 +86,11 @@ The Empire Break Down
 
 Owen, Wilfred. (208ff) ([download](http://www.gutenberg.org/etext/1034) a version of this work from Project Gutenberg)
 
-Yeats, W. B. pp. 32-42. ([download](http://www.gutenberg.org/catalog/world/authrec?fk_authors=1719) a version of this work from Project Gutenberg)
+Yeats, W. B. pp. 32-42. 
 
 *Siegfried Sassoon.* (145 ff). Sequence-Poem. pp. 181-183.5. ([download](http://www.gutenberg.org/etext/8930) a version of this work from Project Gutenberg)
 
-For reference about WWII and Modernism see also Robinson Jeffers (147 ff). ([download](http://www.english.uiuc.edu/maps/poets/g_l/jeffers/onlinepoems.htm) a version of this work from the University of Illinois)
+For reference about WWII and Modernism see also Robinson Jeffers (147 ff). 
 
 Pay special attention to Owen's WW I Poems. Consider how and why they use Off-rhyme.
 
@@ -112,12 +112,12 @@ F.S. Flint
 
 Pound, Ezra. pp. 127-136. ([download](http://www.americanpoems.com/poets/ezrapound) a version of this work from Americanpoems.com)
 
-Lawrence, D. H. (117) ([download](http://www.gutenberg.org/catalog/world/authrec?fk_authors=123) a version of this work from Project Gutenberg)
+Lawrence, D. H. (117)
 
-For Reference: Whitman. pp. 6-8. ([download](http://www.gutenberg.net/etext/8388) a version of this work from Project Gutenberg)
+For Reference: Whitman. pp. 6-8. ([download](http://www.gutenberg.org/etext/8388) a version of this work from Project Gutenberg)
 
-Pay special attention to "The River Merchant's Wife," and "In a Station of the Metro."   
-Consider how the image is the respository of meaning in these poems. Sequence-Poem. pp. 183.5-185.5.
+Pay special attention to "The River Merchant's Wife," and "In a Station of the Metro."    
+Consider how the image is the repository of meaning in these poems. Sequence-Poem. pp. 183.5-185.5.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -248,13 +248,13 @@ Giovanni, Nikki. (483 ff). ([download](http://www.math.buffalo.edu/~sww/poetry/g
 {{< tdclose >}}{{< tdopen >}}
 Woolf
 {{< tdclose >}}{{< tdopen >}}
-Woolf, Virginia. *To the Lighthouse.* (Section 1). ([download](https://ebooks.adelaide.edu.au/w/woolf/virginia/w91t/) a version of this work from the University of Adelaide)
+Woolf, Virginia. *To the Lighthouse.* (Section 1).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
 Woolf (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Woolf, Virginia. *To the Lighthouse.* (Sections 2 and 3). ([download](https://ebooks.adelaide.edu.au/w/woolf/virginia/w91t/) a version of this work from the University of Adelaide)
+Woolf, Virginia. *To the Lighthouse.* (Sections 2 and 3). 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -275,17 +275,17 @@ Ashbery
 
 {{< tdclose >}}{{< tdopen >}}
 
-Yeats. "Easter 1916." (40). ([download](http://www.gutenberg.org/catalog/world/authrec?fk_authors=1719) a version of this work from Project Gutenberg)
+Yeats. "Easter 1916." (40). 
 
 Pound from *Cantos*. ("Dioce") ([download](http://www.americanpoems.com/poets/ezrapound) a version of this work from)
 
-Stevens. "Anecdote of the Jar." (94). ([download](http://www.web-books.com/Classics/Poetry/Anthology/Stevens_W/index.htm) a version of this work from Web-books.com)
+Stevens. "Anecdote of the Jar." (94). 
 
 Doolittle, Hilda. (144ff). ([download](http://www.imagists.org/hd/) a version of this work from Imagists.org)
 
 Auden. "[Shield of Achilles](https://www.poets.org/poetsorg/poem/shield-achilles)," and "Musee…" (282).
 
-Conquest. "Roqueby Venus." (354). ([download](http://www2.bc.edu/~dohertyp/web_site/rokeby.htm) a version of this work from Boston College)
+Conquest. "Roqueby Venus." (354). 
 
 Ashbery. "Instruction Manual." (419). (download a version of this work from Rice ([PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)))
 
@@ -297,7 +297,7 @@ Yeats (cont.)
 
 Yeats. "Easter 1916." (40). 
 
-Yeats. "Sailing to Byzantium." (45).   
+Yeats. "Sailing to Byzantium." (45).    
 Pay special attention to Stanzas 1-2: What's the problem?
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -305,7 +305,7 @@ Pay special attention to Stanzas 1-2: What's the problem?
 {{< tdclose >}}{{< tdopen >}}
 Yeats (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Yeats. "Sailing to Byzantium."  
+Yeats. "Sailing to Byzantium."   
 Pay special attention to Stanzas 3-4: What's the direction in which to look for the solution? What images suggest a solution?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -319,7 +319,7 @@ Stevens
 
 Yeats. "Sailing to Byzantium." 
 
-Stevens. "Sunday Morning," and Other Poems. (90ff).   
+Stevens. "Sunday Morning," and Other Poems. (90ff).    
 Pay special attention to Stanzas 1-2: Who is "she" and what are her options?
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -327,14 +327,14 @@ Pay special attention to Stanzas 1-2: Who is "she" and what are her options?
 {{< tdclose >}}{{< tdopen >}}
 Stevens (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Stevens. "Sunday Morning." ([download](http://www.web-books.com/Classics/Poetry/Anthology/Stevens_W/index.htm) a version of this work from Web-books.com)   
+Stevens. "Sunday Morning."   
 Pay special attention to Stanzas 3-4: Displaced Spirituality and Modernist Compensation
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 Stevens (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Stevens. "Sunday Morning." ([download](http://www.web-books.com/Classics/Poetry/Anthology/Stevens_W/index.htm) a version of this work from Web-books.com)   
+Stevens. "Sunday Morning."   
 Pay special attention to the final Stanzas and to the Neo-gapnist images at the end: we'll compare this ending to the conclusions of Keat's "To Autumn" and to the version of the poem as it first appeared, with the Stanzas renumbered and reorganized, in *Poetry* magazine
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23-25
