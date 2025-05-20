@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on the use of Charlie Chaplin films in teaching modern poetry.
-file: /ol-ocw-studio-app/courses/21l-487-modern-poetry-spring-2002/8ef3075c0db0d2cd109001d22ffd7cb7_chaplin2.pdf
+file: /courses/21l-487-modern-poetry-spring-2002/8ef3075c0db0d2cd109001d22ffd7cb7_chaplin2.pdf
 file_size: 170588
 file_type: application/pdf
 learning_resource_types: []
