@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on contemporary literary translation.
-file: /courses/21l-487-modern-poetry-spring-2002/49817d4f1ebd9022428f49feaad1291d_bad_trans1.pdf
+file: /ol-ocw-studio-app/courses/21l-487-modern-poetry-spring-2002/49817d4f1ebd9022428f49feaad1291d_bad_trans1.pdf
 file_size: 161088
 file_type: application/pdf
 learning_resource_types: []
